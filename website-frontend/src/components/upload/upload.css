@@ -1,0 +1,19 @@
+.how-to-use {
+    background-image: url("../../assets/images/how-to-use-bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+    background-color: #000000BB;
+}
+
+.bullet {
+    background-color: var(--primary);
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 16px;
+}

@@ -1,0 +1,6 @@
+.intro-div {
+    background-image: url("../../assets/images/intro-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+}

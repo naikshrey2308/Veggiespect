@@ -1,0 +1,7 @@
+.nav-item {
+    padding: 0px 20px;
+}
+
+.navbar {
+    transition: all 0.3s;
+}
